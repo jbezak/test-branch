@@ -7,4 +7,4 @@ lito toto tu bolo uplne zle fito
 
 ideme do druhej branche ze co vie ten iny program
 
-este pridame nejaky ten riadok a vyskusame merge :)
+este pridame nejaky ten riadok a vyskusame merge a konflikt :)
