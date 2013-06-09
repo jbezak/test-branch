@@ -4,3 +4,5 @@ text jeden
 nieco nove co este neviete
 
 lito mito fito
+
+ideme do druhej branche ze co vie ten iny program
