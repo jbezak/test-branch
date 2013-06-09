@@ -8,3 +8,5 @@ lito toto tu bolo uplne zle fito
 ideme do druhej branche ze co vie ten iny program
 
 este pridame nejaky ten riadok a vyskusame merge a konflikt :)
+
+tak opat vytvorime konflikt?  a skusime to s rebasom, nak je sranda
