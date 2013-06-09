@@ -6,3 +6,5 @@ nieco nove co este neviete
 lito mito fito
 
 ideme do druhej branche ze co vie ten iny program
+
+este pridame nejaky ten riadok a vyskusame merge :)
